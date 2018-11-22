@@ -1,0 +1,6 @@
+//
+g++ filename.cpp -o filename -lglut -lGL -lGLU
+./filename
+
+// #include <math.h>
+g++ filename.cpp -o filename -lglut -lGL -lGLU -lm
